@@ -1,0 +1,48 @@
+{
+  "name": "fittrack-t1i1u9",
+  "version": "1.0.0",
+  "description": "A web application MVP for fitness enthusiasts to set, track, and share their fitness goals.",
+  "main": "pages/_app.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spectra-ai-codegen/FitTrack-t1i1u9.git"
+  },
+  "author": "Spectra.codes",
+  "license": "GNU AGPLv3",
+  "bugs": {
+    "url": "https://github.com/spectra-ai-codegen/FitTrack-t1i1u9/issues"
+  },
+  "homepage": "https://github.com/spectra-ai-codegen/FitTrack-t1i1u9#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@next/font": "^14.0.3",
+    "@sentry/nextjs": "^7.30.1",
+    "@sentry/tracing": "^7.30.1",
+    "@supabase/auth-helpers-nextjs": "^2.1.0",
+    "@supabase/supabase-js": "^2.2.0",
+    "@types/node": "^18.15.11",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.14",
+    "chart.js": "^4.2.1",
+    "next": "^14.0.3",
+    "next-auth": "^4.21.1",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.2",
+    "zustand": "^4.3.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-next": "^13.3.3",
+    "typescript": "^5.0.4"
+  }
+}
